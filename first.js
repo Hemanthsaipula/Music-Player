@@ -65,7 +65,7 @@ const changeSong = () => {
         id.innerText = "Ammaye Sannaga";
         actor.innerText = "PawanKalyan, Bhoomika";
         musicdir.innerText = "Mani Sharma";
-        picture.src = "photo.png";
+        picture.src = "photo1.png";
         changeAudioSource("Ammaye Sannaga.mp3");
     } else if (holder === 2) {
         id.innerText = "Sarigamapadanisa Jalsa";
