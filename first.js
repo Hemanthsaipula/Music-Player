@@ -59,20 +59,20 @@ const changeSong = () => {
         id.innerText = "Hungry Cheetah";
         actor.innerText = "PawanKalyan, Priyanka Arul Mohan";
         musicdir.innerText = "Thaman";
-        picture.src = "/Music Player/photo.png";
-        changeAudioSource("/Music Player/Hungry Cheetah.mp3");
+        picture.src = "photo.png";
+        changeAudioSource("Hungry Cheetah.mp3");
     } else if (holder === 1) {
         id.innerText = "Ammaye Sannaga";
         actor.innerText = "PawanKalyan, Bhoomika";
         musicdir.innerText = "Mani Sharma";
-        picture.src = "/Music Player/photo1.png";
-        changeAudioSource("/Music Player/Ammaye Sannaga.mp3");
+        picture.src = "photo1.png";
+        changeAudioSource("Ammaye Sannaga.mp3");
     } else if (holder === 2) {
         id.innerText = "Sarigamapadanisa Jalsa";
         actor.innerText = "PawanKalyan, Ileana";
         musicdir.innerText = "DSP";
-        picture.src = "/Music Player/photo2.png";
-        changeAudioSource("/Music Player/Jalsa.mp3");
+        picture.src = "photo2.png";
+        changeAudioSource("Jalsa.mp3");
     }
 };
 
