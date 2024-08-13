@@ -25,7 +25,7 @@ body{
     height: 250px;
     width: 250px;
     border-radius: 50%;
-    /* background-image: url(/Music\ Player/photo.png); */
+    /* background-image: url(photo.png); */
     background-size: contain;
 }
 .topbuttons{
